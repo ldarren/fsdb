@@ -12,7 +12,7 @@ DIR_EPP=		'.epp/',
 DIR_GRP=		'.grp/',
 
 GOD=0,
-EDEN='jasy',
+EDEN='test',
 
 fsdb=require('.'),
 cfg=require('./test.json'),
