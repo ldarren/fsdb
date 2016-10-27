@@ -1,0 +1,11 @@
+{
+    "app":{
+    },
+    "mods":{
+		"group":{
+			"mod":"fsdb",
+			"root":"/tmp",
+			"nameLength":3
+        }
+    }
+}
