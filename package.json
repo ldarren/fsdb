@@ -1,0 +1,28 @@
+{
+  "name": "fsdb",
+  "version": "1.0.0",
+  "description": "file system database",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldarren/fsdb.git"
+  },
+  "keywords": [
+    "virtual",
+    "file",
+    "system",
+    "nodejs"
+  ],
+  "author": "Darren Liew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldarren/fsdb/issues"
+  },
+  "homepage": "https://github.com/ldarren/fsdb#readme",
+  "dependencies": {
+    "pico-args": "^1.0.6"
+  }
+}
